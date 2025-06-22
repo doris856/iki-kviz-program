@@ -1,0 +1,97 @@
+1. Koji je glavni cilj Dana sigurnijeg interneta?
+a) Promocija najnovijih videoigara
+b) Edukacija o sigurnom i odgovornom ponašanju na internetu
+c) Prodaja ra?unalne opreme
+d) Organizacija natjecanja u programiranju
+To?an odgovor: b
+	2.	Što zna?i pojam “digitalna privatnost”?
+a) Dijeljenje svih osobnih podataka na društvenim mrežama
+b) Zaštita osobnih podataka i kontrola nad njima na internetu
+c) Korištenje interneta samo u javnim prostorima
+d) Slanje privatnih poruka nepoznatim osobama
+To?an odgovor: b
+	3.	Koji je najbolji na?in da zaštitiš svoje lozinke?
+a) Koristiti istu lozinku za sve ra?une
+b) ?uvati ih u bilježnici pored ra?unala
+c) Koristiti jake, jedinstvene lozinke i po potrebi upravitelj lozinki
+d) Dijeliti ih s prijateljima
+To?an odgovor: c
+	4.	Što trebaš u?initi ako primiš neprimjerene poruke na internetu?
+a) Odmah ih proslijediti svima
+b) Ignorirati i blokirati pošiljatelja, te obavijestiti odraslu osobu 
+c) Odgovoriti na poruke i pitati zašto šalju takve stvari
+d) Izbrisati aplikaciju za dopisivanje
+To?an odgovor: b
+	5.	Koja je najvažnija stvar kod dijeljenja sadržaja na društvenim mrežama?
+a) Dijeliti samo slike i informacije koje ne ugrožavaju tvoju privatnost
+b) Dijeliti sve što ti padne na pamet
+c) Dijeliti samo sadržaj koji je zabavan
+d) Dijeliti informacije o drugim ljudima bez njihovog pristanka
+To?an odgovor: a
+	6.	Što zna?i “phishing”?
+a) Siguran na?in pla?anja na internetu
+b) Pokušaj kra?e osobnih podataka putem lažnih poruka ili web stranica
+c) Igra na internetu
+d) Slanje velikog broja e-mailova prijateljima
+To?an odgovor: b
+	7.	Kako možeš provjeriti je li web/mrežna stranica sigurna?
+a) Ako ima puno reklama
+b) Ako u adresi stranice piše “https” i ima simbol lokota
+c) Ako traži tvoju lozinku odmah nakon ulaska
+d) Ako stranica izgleda šareno i zabavno
+To?an odgovor: b
+	8.	Koja je preporu?ena dob za otvaranje profila na Instagramu?
+a) 10 godina
+b) 13 godina
+c) 7 godina
+d) 5 godina
+To?an odgovor: b
+	9.	Što je “cyberbullying”?
+a) Igranje online igara
+b) Nasilje i vrije?anje drugih putem interneta
+c) Slanje poklona prijateljima online
+d) Dijeljenje smiješnih videa
+To?an odgovor: b
+	10.	Koji je najbolji na?in da prepoznaš lažne vijesti na internetu?
+a) Provjeriti više izvora i vjerodostojne stranice
+b) Vjerovati samo naslovu ?lanka
+c) Dijeliti vijest odmah nakon što je pro?itaš
+d) Vjerovati samo onome što vidiš na društvenim mrežama
+To?an odgovor: a
+	11.	Zašto je važno redovito ažurirati softver(programe) na ure?ajima?
+a) Da bi ure?aj radio sporije
+b) Da bi se popravile sigurnosne rupe i sprije?ili napadi
+c) Da bi se izgubili podaci
+d) Nije važno, svejedno je
+To?an odgovor: b
+	12.	Što zna?i “dvofaktorska autentifikacija”?
+a) Korištenje samo lozinke za prijavu
+b) Dodatna sigurnosna provjera uz lozinku, npr. kod na mobitelu
+c) Dijeljenje lozinke s drugom osobom
+d) Prijava na dvije razli?ite stranice istovremeno
+To?an odgovor: b
+	13.	Što treba upisati u tražilicu kada prona?ete neprimjereni sadržaj na internetu
+a) Upisati hotline prijava te prijaviti neprimjereni sadržaj na internetu
+b) Oti?i na društvene mreže i podijeliti sadržaj
+c) Treba ignorirati neprimjereni sadržaj 
+d) Spremiti neprimejereni sadržaj na svoje ra?unalo ili mobitel
+To?an odgovor: a
+	14.	Što trebaš napraviti ako primijetiš da je tvoj ra?un hakiran?
+a) Promijeniti lozinku i obavijestiti odraslu osobu
+b) Ignorirati problem
+c) Obrišati ra?un bez promjene lozinke
+d) Dijeliti svoje podatke s nepoznatima da ti pomognu
+To?an odgovor: a
+	15.	Koja je svrha online kvizova i radionica na Dan sigurnijeg interneta?
+a) Zabava bez edukacije
+b) Edukacija i podizanje svijesti o sigurnosti na internetu
+c) Prodaja proizvoda za ra?unala
+d) Natjecanje u brzom tipkanju
+To?an odgovor: b
+	16.	Kako možeš pomo?i da internet bude sigurnije mjesto za sve?
+a) Dijeljenjem lažnih vijesti
+b) Poštovanjem drugih i prijavljivanjem neprimjerenog sadržaja
+c) Ignoriranjem pravila ponašanja
+d) Korištenjem tu?ih lozinki
+To?an odgovor: b
+
